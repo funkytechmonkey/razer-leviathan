@@ -7,7 +7,8 @@ This is the firmware fix for the Razer Leviathan. These files came directly from
 
 ## Needed 
 * 1 - Thumb drive formatted in FAT32 
-
+--note-- fat32 max volume size is only 4 gigs. I have not tested this with exFAT. 
+      If you need help with formatting your USB drive refer to the FORMAT-USB-README file. 
 * 2 - The beethoven11_v1.0.0.0.mdu file from here. 
 
 ## How to update. 
