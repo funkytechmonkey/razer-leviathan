@@ -20,7 +20,7 @@ Right click on the USB drive and click FORMAT
     You will now see a list of all your disk. Make not of the disk number and Size to know which disk if yours. 
     The DISK number is VERY IMPORTANT 
   Select the disk number by typing "Select Disk 1" if your USB comes up as disk 2 type "select Disk 2. 
-  Then type CLEAR. (This will wipe the drive and remove all files)
+  Then type CLEAN. (This will wipe the drive and remove all files)
   Type "create partition primary" and hit Enter 
   Type "format fs=fat32 quick" and hit Enter. 
   You should now see the fat32 partition in windows explorer so you can move the updater file to the drive. 
